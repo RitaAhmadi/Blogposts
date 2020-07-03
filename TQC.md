@@ -18,7 +18,7 @@ If you want to learn about the Kauffman bracket or Kitaev model, watch them! No 
 I would suggest starting with this book if you do not have any prior knowledge of topological matter and quantum computation. This book walks you through all difficult subjects and builds your intuition with jokes and humor that you do not realize when you have learned a lot of difficult topics! It includes quite a few exercises. (Do not panic by Surgery and Quantum Gravity chapters keep going! )
 
 **Physical Approach**
-1. <a href="https://www.edx.org/course/topology-in-condensed-matter-tying-quantum-knots"> *Topological Quantum Matter*</a>  an online course which is "a joint effort of Delft University of Technology, QuTech, NanoFront, University of Maryland, and Joint Quantum Institute."(site description) 
+1. <a href="https://topocondmat.org/"> *Topological Quantum Matter*</a>  an online course which is "a joint effort of Delft University of Technology, QuTech, NanoFront, University of Maryland, and Joint Quantum Institute."(site description) 
 2. *Introduction to Topological Quantum Matter & Quantum Computation* by Jiannis K. Pachos 
 3. <a href="https://thesis.library.caltech.edu/2447/2/thesis.pdf"> Parsa Hassan Bonderson's thesis</a>
 
