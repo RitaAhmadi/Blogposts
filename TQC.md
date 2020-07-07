@@ -2,6 +2,9 @@ A Collection of Resources for Learning Topological Quantum Computation
 ----------------------------------
 Here is a list of resources for learning topological quantum computation from different perspectives for different backgrounds. Please contribute to the list and also add non-English materials for non-English speakers. The recommendation and description of materials are the personal views of a graduate student and have no claim of being an expert's view on the topic. So please feel free to extend/alter them! 
 
+**History** 
+A concise history of the field is tweeted by Maissam Barkeshli in his personal twitter account,<a href="https://twitter.com/MBarkeshli/status/1280236950906122241?s=20"> here<\a>
+
 **Introductory Materials or General Reviews**
 
 0. <a href="https://arxiv.org/abs/0707.1889"> *Non-Abelian anyons and topological quantum computation*</a> by Chetan Nayak, Steven H. Simon, Ady Stern, Michael Freedman, Sankar Das Sarma 
