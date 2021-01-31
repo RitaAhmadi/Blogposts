@@ -1,6 +1,6 @@
 A Collection of Resources for Learning Topological Quantum Computation
 ----------------------------------
-Here is a list of resources for learning topological quantum computation from different perspectives for different backgrounds. Please contribute to the list and also add non-English materials for non-English speakers. The recommendation and description of materials are the personal views of a graduate student and have no claim of being an expert's view on the topic. So please feel free to extend/alter them! 
+Here is a list of resources for learning topological quantum computation from different perspectives for different backgrounds. Please contribute to the list. The recommendation and description of materials are the personal views of a graduate student and have no claim of being an expert's view on the topic. So please feel free to extend/alter them! 
 
 **History** 
 
@@ -36,7 +36,7 @@ I would suggest starting with this book if you do not have any prior knowledge o
 3. Appendix of <a href="https://arxiv.org/abs/cond-mat/0506438 "> *Anyons in an exactly solved model and beyond*</a> by Alexie Kitave </br>
 This paper does not explicitly discuss topological quantum computation, but it gives a comprehensive account of the mathematical structure behind the model. It also does not explicitly mention the categorical jargon, but knowing a bit of category theory at least the definition of monoidal category helps to spot categorical correspondence. One of the papers you might want to keep handy! 
 
+**Open Problems**
+1. <a href="http://aimpl.org/fusioncat/">*Classifying fusion categories*</a> Edited by Scott Morrison and David Penneys
+A list to track problems in this area. 
 
-**For Persian(Farsi) Speakers**
-1. <a href="http://physics.sharif.edu/~vahid/teaching/Quantum%20Computation%201393/21-QCI-Topological%20QCNew.pdf">*Lecture note*</a> by Vahid Karimipour 
-2. <a href="http://repository.sharif.edu/resource/407517/introduction-to-categorical-aspects-of-topological-quantum-computation"> *Introduction to Categorical Aspects of Topological Quantum Computation* </a> is my master thesis and is written for physicists without any knowledge of category theory. 
