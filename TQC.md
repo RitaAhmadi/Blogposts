@@ -4,7 +4,7 @@ Here is a list of resources for learning topological quantum computation from di
 
 **History** 
 
-A concise history of the field is tweeted by Maissam Barkeshli in his personal twitter account,<a href="https://twitter.com/MBarkeshli/status/1280236950906122241?s=20"> here</a>
+A concise history of the field is tweeted by Maissam Barkeshli on his personal twitter account,<a href="https://twitter.com/MBarkeshli/status/1280236950906122241?s=20"> here</a>
 
 **Introductory Materials or General Reviews**
 
