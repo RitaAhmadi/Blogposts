@@ -6,3 +6,4 @@
 4. **The Organization of knowledge in modern America, 1860-1920** https://archive.org/details/organizationofkn00tes1/page/10/mode/2up?view=theater
 5. **Wittgenstein, Seeing-As, and Novelty** by **William Child** https://philarchive.org/archive/CHIWSA-2
 6. **Mathematics at Göttingen under the Nazis** by **Mac Lane** http://www.ams.org/notices/199510/maclane.pdf
+7. **Nullius In Verba** https://www.nature.com/articles/6400730.pdf?origin=ppub
