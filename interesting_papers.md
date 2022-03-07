@@ -8,3 +8,5 @@
 6. **Mathematics at Göttingen under the Nazis** by **Mac Lane** http://www.ams.org/notices/199510/maclane.pdf
 7. **Nullius In Verba** https://www.nature.com/articles/6400730.pdf?origin=ppub
 8. **'Regarding the Pain of Others'** by **Susan Sontag** https://www.nytimes.com/2003/03/23/books/chapters/regarding-the-pain-of-others.html
+9. **On Epistemic Injustice** by **Miranda Fricker** https://www.mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_injustice_and_a_role_for_virtue_in_the_politics_of_knowing.pdf
+https://www.mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_oppression_and_epistemic_privilege1999.pdf
