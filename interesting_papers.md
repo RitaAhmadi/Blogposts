@@ -11,4 +11,5 @@
 9. **On Epistemic Injustice** by **Miranda Fricker** https://www.mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_injustice_and_a_role_for_virtue_in_the_politics_of_knowing.pdf
 https://www.mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_oppression_and_epistemic_privilege1999.pdf
 https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237907.001.0001/acprof-9780198237907
-**The 'Corroboration' of Theories** by **Hilary Putnam** http://www.jwood.faculty.unlv.edu/unlv/Articles/PutnamVsPopper.pdf
+
+10. **The 'Corroboration' of Theories** by **Hilary Putnam** http://www.jwood.faculty.unlv.edu/unlv/Articles/PutnamVsPopper.pdf
