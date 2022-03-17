@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 24. Frances Prose
 25. http://colummccann.com/
 26. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
+27. http://www.tejucole.com/
+
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
 
