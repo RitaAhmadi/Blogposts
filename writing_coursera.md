@@ -27,8 +27,9 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 21. https://www.merriam-webster.com/words-at-play/maybe-you-like-comma-splices-maybe-you-dont
 22. Notes on Nuance: Volume 1 Patrick Barry
 23. Letters to a young writer! 
-
-23. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
+24. Frances Prose
+25. 
+26. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
 
