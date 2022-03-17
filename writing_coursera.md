@@ -33,3 +33,4 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 **Listen**
 1. <a href="https://hbr.org/podcast/2016/04/smart-managers-dont-compare-people-to-the-average"> Smart Managers Don't Compare People to the "Average" (HBR Ideacast Podcast, 2016)</a>
 
+https://www.coursera.org/learn/writing-editing-words/lecture/KGfrF/notes-on-nuance-un#:~:text=Optional%20Resources%3A%20Gish,Longform%20Podcast%2C%202014
