@@ -4,6 +4,7 @@
 1. The End of Average by Todd Rose (2016)
 2. Standards, Grades, and Tests are Wildly Outdated (NPR, 2016)
 3. <a href="https://www.abajournal.com/magazine/article/one-who-can-draw-a-good-map-can-probably-write-a-good-brief"> If you can give good directions, you can probably write a good brief </a>
+4. The Quest to Solve Problems Before They Happen
 
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
