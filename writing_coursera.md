@@ -47,7 +47,10 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 41. https://www.vulture.com/2020/02/spread-of-corporate-speak.html
 42. **How we think?** by John Dewey 
 43. http://www.taffyakner.com/
-
+44. https://www.robertcaro.com/the-books/the-power-broker/
+45. https://www.hachettebookgroup.com/titles/damon-centola/change/9780316457330/#:~:text=As%20a%20leading%20sociologist%20and,and%20the%20diffusion%20
+46. https://www.ft.com/video/fb1b22c3-61ec-4bd0-8411-ecc4f2d677ff
+47. 
 
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
