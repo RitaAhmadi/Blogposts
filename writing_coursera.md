@@ -31,6 +31,21 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 25. http://colummccann.com/
 26. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
 27. http://www.tejucole.com/
+28. https://wordsfollowme.files.wordpress.com/2010/10/teju-cole-eight-letters-to-a-young-writer2.pdf
+29. https://www.theatlantic.com/education/archive/2017/09/boys-are-not-defective/540204/
+30. https://www.science.org/doi/full/10.1126/science.1168927
+31. https://poets.org/poem/theme-english-b
+32. https://www.nytimes.com/2018/12/08/opinion/college-gpa-career-success.html
+33. https://us18.campaign-archive.com/?u=8266ed7f935adade804187429&id=d0a903a13b
+34. https://time.com/3490769/malala-yousafzai-the-day-i-woke-up-in-the-hospital/
+35. https://www.bookbrowse.com/excerpts/index.cfm/book_number/3707/educated
+36. https://www.educationnext.org/work-hard-be-nice/
+37. https://libguides.law.umich.edu/goodsentences/topics/education-law
+38. https://libguides.law.umich.edu/goodsentences
+39. https://thewalrus.ca/why-academics-revel-in-bad-writing/
+40. https://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/
+41. https://www.vulture.com/2020/02/spread-of-corporate-speak.html
+42. **How we think?** by John Dewey 
 
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
@@ -39,3 +54,4 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 1. <a href="https://hbr.org/podcast/2016/04/smart-managers-dont-compare-people-to-the-average"> Smart Managers Don't Compare People to the "Average" (HBR Ideacast Podcast, 2016)</a>
 
 https://www.coursera.org/learn/writing-editing-words/lecture/KGfrF/notes-on-nuance-un#:~:text=Optional%20Resources%3A%20Gish,Longform%20Podcast%2C%202014
+
