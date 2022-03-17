@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 40. https://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/
 41. https://www.vulture.com/2020/02/spread-of-corporate-speak.html
 42. **How we think?** by John Dewey 
+43. http://www.taffyakner.com/
+
 
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
