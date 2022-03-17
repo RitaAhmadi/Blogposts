@@ -1,4 +1,5 @@
-##Week 1:
+## Week 1:
+
 **Read**
 1. The End of Average by Todd Rose (2016)
 2. Standards, Grades, and Tests are Wildly Outdated (NPR, 2016)
