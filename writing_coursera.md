@@ -25,8 +25,8 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 19. https://www.businessinsider.com/comma-splice-2016-4?r=US&IR=T
 20. https://www.economist.com/johnson/2012/01/10/the-dreaded-comma-splice
 21. https://www.merriam-webster.com/words-at-play/maybe-you-like-comma-splices-maybe-you-dont
-22. Notes on Nuance: Volume 1
-Patrick Barry
+22. Notes on Nuance: Volume 1 Patrick Barry
+23. Letters to a young writer! 
 
 23. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
 **Watch**
