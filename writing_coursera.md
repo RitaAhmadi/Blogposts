@@ -1,3 +1,8 @@
+**Lectures**: 
+https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf&index=12
+
+
+
 ## Week 1:
 
 **Read**
