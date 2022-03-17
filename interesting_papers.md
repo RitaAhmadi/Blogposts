@@ -16,3 +16,4 @@ https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237
 11. **Reading List for Undergraduate Math Students** https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
 12. **Timeless advice on writing** https://www.themarginalian.org/2013/05/03/advice-on-writing/
 13. https://hbr.org/2017/01/the-stretch-goal-paradox
+14. https://sloanreview.mit.edu/article/when-smart-goals-are-not-so-smart/
