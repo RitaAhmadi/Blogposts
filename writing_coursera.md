@@ -18,8 +18,15 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 11. 12. **Timeless advice on writing** https://www.themarginalian.org/2013/05/03/advice-on-writing/
 13. https://hbr.org/2017/01/the-stretch-goal-paradox
 14. https://sloanreview.mit.edu/article/when-smart-goals-are-not-so-smart/
-
-16. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
+15. https://www.theatlantic.com/culture/archive/2012/09/writers-favorite-punctuation-marks/323287/
+16. https://www.nytimes.com/interactive/2016/11/11/insider/copy-edit-this-quiz.html
+17. https://cmosshoptalk.com/chicago-style-workouts/
+18. https://www.businessinsider.com/comma-splice-2016-4?r=US&IR=T
+19. https://www.businessinsider.com/comma-splice-2016-4?r=US&IR=T
+20. https://www.economist.com/johnson/2012/01/10/the-dreaded-comma-splice
+21. https://www.merriam-webster.com/words-at-play/maybe-you-like-comma-splices-maybe-you-dont
+22. 
+23. <a href="https://www.amazon.co.uk/dp/B011H56MKS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"> Peak </a>
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
 
