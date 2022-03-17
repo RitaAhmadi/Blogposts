@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=wXdGyGh9geI&list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRD
 5. Work Hard. Be Nice
 7.<a href="https://www.poetryfoundation.org/poems/48596/the-words-under-the-words"> The words under the words </a> 
 8. <a href="https://www.michbar.org/file/barjournal/article/documents/pdf4article3374.pdf"> </a>
+9. <a href="https://www.simonandschuster.com/books/Simpler/Cass-R-Sunstein/9781476726601"></a>
 **Watch**
 1. <a href="https://www.youtube.com/watch?v=-34ASwa_Ztk"> Why Individuality is Key to the Future (The 74, 2017)</a>
 
