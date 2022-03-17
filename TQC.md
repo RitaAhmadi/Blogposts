@@ -21,7 +21,7 @@ If you want to learn about the Kauffman bracket or Kitaev model, watch them! No 
 1. *Topological Quantum Matter* by Steve Simon </br>
 I would suggest starting with this book if you do not have any prior knowledge of topological matter and quantum computation. This book walks you through all difficult subjects and builds your intuition with jokes and humor that you do not realize when you have learned a lot of difficult topics! It includes quite a few exercises. (Do not panic by Surgery and Quantum Gravity chapters keep going! )
 
-2.*TQC ZOO** https://errorcorrectionzoo.org/
+2. *TQC ZOO* https://errorcorrectionzoo.org/
 
 **Physical Approach**
 1. <a href="https://topocondmat.org/"> *Topological Quantum Matter*</a>  an online course which is "a joint effort of Delft University of Technology, QuTech, NanoFront, University of Maryland, and Joint Quantum Institute."(site description) 
