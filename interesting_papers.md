@@ -14,4 +14,6 @@ https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237
 
 10. **The 'Corroboration' of Theories** by **Hilary Putnam** http://www.jwood.faculty.unlv.edu/unlv/Articles/PutnamVsPopper.pdf
 11. **Reading List for Undergraduate Math Students** https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
+12. https://hbr.org/podcast/2020/01/new-beginnings
+13. https://as.nyu.edu/content/nyu-as/as/faculty/gabriele-oettingen.html
 
