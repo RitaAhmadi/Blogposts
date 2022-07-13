@@ -15,7 +15,7 @@ Perhaps, the next photo they took together was at the Nobel prize ceremony in 19
 
 The invention of the transistor shifted the culture radically, from community gatherings in wealthy neighbours’ houses for watching a movie to the autonomy of tiny devices in school kids’ pockets. Transistors, moreover, shifted the culture, process, and function of photography.  It provided a better understanding of semiconductor physics which contributed to the invention of CCD in Bell Labs. In 1975,  Kodak built the first digital still camera(DSLR) using a Fairchild 100×100 pixel CCD. 
 
-Transistors and their grandchildren, the modern-day-ICS, also brought about today’s smartphones. Nowadays, the selling point of smartphones is their cameras: advanced, portable, and equipped with AI assistant corrections. The availability of cameras has further substantially transformed the public discourse from words to photos. To conclude with another Sontag’s quote, “[...] Mallarmé said that everything in the world exists in order to end in a book. Today everything exists to end in a photograph.” 
+Transistors and their grandchildren, the modern-day-ICs, also brought about today’s smartphones. Nowadays, the selling point of smartphones is their cameras: advanced, portable, and equipped with AI assistant corrections. The availability of cameras has further substantially transformed the public discourse from words to photos. To conclude with another Sontag’s quote, “[...] Mallarmé said that everything in the world exists in order to end in a book. Today everything exists to end in a photograph.” 
 
 
 ## References: 
