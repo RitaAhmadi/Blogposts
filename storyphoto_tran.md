@@ -8,7 +8,7 @@ Shockley was the leader of the Solid State Physics group at Bell Labs with an as
 
 The first cracks in this collaboration appeared when Bell Labs’ attorneys concluded that they could not include  Shockley’s name on the patent since Shockley was not the first to propose the field-effect idea. Infuriated by this decision, Shockley independently and secretly worked on the idea of using junctions instead of point contact. This effort ended in the invention of bipolar junction transistors. Receiving recognition and publicity after Comstock Prize in Physics, Shockley’s name was often solely associated with transistors in the media.  Annoyed by the media coverage, Bardeen left Bell Labs for academia, and Brattain moved to another group. Shockley later left Bell Labs and established the first cornerstones of today’s Silicon Valley. 
 
-Perhaps, the next photo they took together was at the Nobel prize ceremony in 1956 when they were jointly awarded the Nobel prize in physics; a ceremony which happened again for Bardeen in 1972. The triple recreated Picture 1 in 1972. It is called ``Return to Result’’ and is held under Granger licence. 
+Perhaps, the next photo they took together was at the Nobel prize ceremony in 1956 when they were jointly awarded the Nobel prize in physics; a ceremony which happened again for Bardeen in 1972. The triple recreated Picture 1 in 1972, called ``Return to Result’’. It is held under Granger licence. 
 
 
 [Picture 2: (from left 1st) Walter Brattain, (5th)  John Bardeen, (7th) William Shockley.](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2020-11/croppedGettyImages613469674I9A6jpg.jpeg)
