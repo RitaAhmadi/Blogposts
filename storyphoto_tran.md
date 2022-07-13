@@ -2,9 +2,7 @@
 
 Susan Sontag wrote substantially on photography and its revealing, sometimes even interpreting objectives. She said about the difference between a painter and a photographer; `` the painter constructs, the photographer discloses’’. So the claim that one of the most productive teams of the 20th century ruptured because of a single photo might be an exaggeration, but it perhaps discloses a more rooted truth. John Bardeen, William Shockley and Walter Brattain were members of the team who built one of the most revolutionary inventions in human history, i.e. transistors. 
 
-[link](https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardeen_Shockley_Brattain_1948.JPG)
-
-Picture 1: (from left) John Bardeen, William Shockley and Walter Brattain.
+[Picture 1: (from left) John Bardeen, William Shockley and Walter Brattain.](https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardeen_Shockley_Brattain_1948.JPG)
 
 Shockley was the leader of Solid State Physics group at Bell Labs with an assignment of building a vacuum tube alternative for improving Bell’s telephone system throughout the country. Shockley, who recently came back from a mission of training program for B-29 bomber pilots,  proposed using an external electrical field on a semiconductor to affect its conductivity. However, months of attempts at this idea proved unsuccessful until Bardeen suggested using surface states that prevented the field from penetrating the semiconductor. Eventually, Bardeen’s proposal resulted in the successful production of point-contact transistors. 
 
@@ -13,8 +11,7 @@ The first cracks in this collaboration appeared when Bell Labs’ attorneys conc
 The next photo probably they took together was at the Nobel prize ceremony in 1956 when they were jointly awarded the Nobel prize in physics; a ceremony which happened again for Bardeen in 1972. The triple recreated Picture 1 in 1972. It is called ``Return to Result’’ and held under Granger licence.  
 
 
-
-Picture 2: (from left 1st) Walter Brattain, (5th)  John Bardeen, (7th) William Shockley.
+[Picture 2: (from left 1st) Walter Brattain, (5th)  John Bardeen, (7th) William Shockley.](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2020-11/croppedGettyImages613469674I9A6jpg.jpeg)
 
 The invention of the transistor shifted the culture radically, from community gatherings in wealthy neighbours’ houses for watching a movie to the autonomy of tiny devices in school kids’ pockets. Transistors, moreover, shifted culture, process, and function of photography.  It provided a better understanding of semiconductor physics which contributed to the invention of CCD in Bell Labs. In 1975,  Kodak built the first digital still camera(DSLR) using a Fairchild 100×100 pixel CCD. 
 
