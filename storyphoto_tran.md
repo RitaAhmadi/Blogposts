@@ -21,7 +21,7 @@ The invention of the transistor shifted the culture radically, from community ga
 Transistors and their grandchildren, the modern-day-ICS, also brough about today’s smartphones. Nowadays, the selling point of smartphones is their cameras: advanced, portable, and equipped with AI assistant corrections. The availability of cameras has further substantially transformed the public discourse from words to photos. To conclude with another Sontag’s quote, “[...] Mallarmé said that everything in the world exists in order to end in a book. Today everything exists to end in a photograph.” 
 
 
-References: 
+## References: 
 Riordan, M., & Hoddeson, L. (1997). The Moses of Silicon Valley. Physics Today, 50(12), 42-47. 
 Sontag, S. (2001). On photography (Vol. 48). Macmillan.
 Wikipedia entry on Transistor 
