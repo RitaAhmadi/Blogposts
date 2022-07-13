@@ -19,6 +19,6 @@ Transistors and their grandchildren, the modern-day-ICS, also brough about today
 
 
 ## References: 
-Riordan, M., & Hoddeson, L. (1997). The Moses of Silicon Valley. Physics Today, 50(12), 42-47. 
-Sontag, S. (2001). On photography (Vol. 48). Macmillan.
-Wikipedia entry on Transistor 
+1. Riordan, M., & Hoddeson, L. (1997). The Moses of Silicon Valley. Physics Today, 50(12), 42-47. 
+2. Sontag, S. (2001). On photography (Vol. 48). Macmillan.
+3. Wikipedia entry on Transistor 
