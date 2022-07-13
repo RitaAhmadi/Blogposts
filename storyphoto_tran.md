@@ -1,6 +1,6 @@
 # The Story of a Photo: Transistor
 
-Susan Sontag wrote substantially on photography and its revealing, sometimes even interpreting objectives. On the difference between a painter and a photographer, she said, `` the painter constructs, the photographer discloses’’. So the claim that one of the most productive teams of the 20th century ruptured because of a single photo might be an exaggeration, but it perhaps discloses some truth. John Bardeen, William Shockley, and Walter Brattain were members of the team who built one of the most revolutionary inventions in human history, i.e. transistors. 
+Susan Sontag wrote substantially on photography and its revealing, sometimes even interpreting objectives. On the difference between a painter and a photographer, she said, `` the painter constructs, the photographer discloses’’. So the claim that one of the most productive teams of the 20th century ruptured because of a single photo might be an exaggeration, but it perhaps discloses some truth. John Bardeen, William Shockley, and Walter Brattain were members of the team who invented one of the most revolutionary inventions in human history, i.e. transistors. 
 
 [Picture 1: (from left) John Bardeen, William Shockley and Walter Brattain.](https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardeen_Shockley_Brattain_1948.JPG)
 
