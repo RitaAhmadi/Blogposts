@@ -1,5 +1,4 @@
-# Topological quantum computing: 
-# a short account for a college-level student in physics. Part I
+# Topological quantum computing: a short account for a college-level student in physics. Part I
 
 Topological quantum computing usually is referred to as the sexiest, complicated, far-reaching, abstract-nonsense, and sometimes even impractical model of quantum computing. Whether this model of quantum computing makes you excited or confused or gives you rash depends on how much you know or, at least, are willing to know. Because although one needs to understand a great deal of maths and physics to get into the depth of the model, to learn the big picture one only needs to shut up the inner adjective-making system and openly think about its big ideas. 
 
