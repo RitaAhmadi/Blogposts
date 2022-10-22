@@ -15,4 +15,4 @@ https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237
 10. **Reading List for Undergraduate Math Students** https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
 11. https://hbr.org/podcast/2020/01/new-beginnings
 12. **Why You Can't Make a Computer That Feels Pain** by **Daniel C. Dennett** https://www.jstor.org/stable/20115302
-
+13. **NAMING AND NECESSITY** by **Kripke** http://people.exeter.ac.uk/sp344/naming_and_necessityocr.pdf
